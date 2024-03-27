@@ -1,5 +1,5 @@
 # REQ-OSINT y Ciberinvestigación
-Distribución Kali Linux enfocada para OSINT
+Distribución Kali Linux para ivestigación OSINT
 
 OSINT: El Arte de la Inteligencia Abierta con Herramientas Especializadas
 #
