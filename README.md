@@ -120,5 +120,11 @@ Se emplea para recopilar información sobre posibles amenazas en línea, como ac
 - [**VirusTotal**](https://www.virustotal.com/)
 - [**Recorded Future**](https://go.recordedfuture.com/get-started#demo-form/)
 
+### Descarga distribución 
+------------
+
+
+### Video demostración .
+------------
 
   
