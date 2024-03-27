@@ -42,8 +42,12 @@ La distribución cuenta con una gran cantida de herramientas, las cuales estan d
   Habilitadas en su carpeta  dentro del navegador Chromium.
   ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/af91a32c-5b21-4dcc-a9c5-bb8590661676)
 
-- [**Shodan**]([url] https://www.shodan.io/
-
+- [**Shodan**]( https://www.shodan.io/)   Es un motor de búsqueda de dispositivos conectados a internet que ofrece una variedad de herramientas para monitorizar y enriquecer datos de direcciones IP a nivel global.
+- [**OSINT.Industries**]( https://osint.industries/) plataforma especializada en inteligencia de fuentes abiertas (Open Source Intelligence - OSINT) que ofrece herramientas avanzadas para la recopilación, análisis y visualización de información obtenida de fuentes públicas.
+- [**Sherlockeye**](https://sherlockeye.io/) ofrece investigaciones de OSINT en más de 9000 sitios web, con la capacidad de buscar información dentro de más de 16 mil millones de registros de filtraciones. Además, proporciona análisis mejorados por inteligencia artificial para descubrir si el objetivo ha sido comprometido en brechas de seguridad conocidas
+- [**Censys**]( https://search.censys.io/ )
+- [**Pipl**]( https://pipl.com/) 
+    
 ### Análisis de Redes Sociales
   ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/16da7ffa-9092-4d80-8842-389cffa8c351)
 
