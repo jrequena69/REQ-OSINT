@@ -38,6 +38,12 @@ La distribución cuenta con una gran cantida de herramientas, las cuales estan d
 - [**Sn1per**]([url](https://github.com/1N3/Sn1per)) : Herramienta de penetración de código abierto diseñada para facilitar pruebas de penetración y evaluaciones de seguridad de redes y sistemas. Desarrollada por 1N3@CrowdShield, Sn1per automatiza numerosas fases del proceso de pentesting, incluida la recopilación de información, el escaneo de vulnerabilidades, la explotación y la generación de informes. 
 - [**Spiderfoot**]([url](https://github.com/smicallef/spiderfoot)) :Automatiza la recopilación de información sobre objetivos específicos en internet. Utiliza múltiples fuentes de datos públicas y privadas para extraer información relevante sobre dominios, direcciones IP, direcciones de correo electrónico y otros elementos de interés. SpiderFoot realiza un análisis exhaustivo de la superficie de ataque potencial de una organización o entidad, identificando posibles vulnerabilidades y amenazas
 
+  #### Herramientas Web
+  Habilitadas en su carpeta  dentro del navegador Chromium.
+  ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/af91a32c-5b21-4dcc-a9c5-bb8590661676)
+
+- [**Shodan**]([url] https://www.shodan.io/
+
 ### Análisis de Redes Sociales
   ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/16da7ffa-9092-4d80-8842-389cffa8c351)
 
@@ -45,6 +51,10 @@ La distribución cuenta con una gran cantida de herramientas, las cuales estan d
 - [**OSINT Framework**]([url](https://osintframework.com/)) :  Plataforma que centraliza y organiza herramientas y recursos de fuentes abiertas en línea para facilitar la investigación y recopilación de información.
 - [**User recon**]([url](https://github.com/vijaysahuofficial/UserReCon)) : Busca perfiles en redes sociales utilizando un nombre de usuario específico. Permite a los usuarios buscar perfiles en una amplia gama de plataformas de redes sociales y servicios en línea, incluyendo Facebook, Instagram, Twitter, LinkedIn
 - [**Social Analizer**]([url](https://github.com/qeeqbox/social-analyzer)) :Analizar perfiles de redes sociales en busca de posibles riesgos de seguridad o privacidad. Esta herramienta está diseñada para ayudar a los usuarios a evaluar la exposición de su información personal en línea y a tomar medidas para proteger su privacidad y seguridad.
+
+  #### Herramientas Web
+  Habilitadas en su carpeta  dentro del navegador Chromium.
+  
 
 ### Análisis de Metadatos y Archivos
 ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/8848da7d-c534-4591-ab79-7b3cbbccd430)
