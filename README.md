@@ -42,9 +42,9 @@ La distribución cuenta con una gran cantida de herramientas, las cuales estan d
   Habilitadas en su carpeta  dentro del navegador Chromium.
   ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/af91a32c-5b21-4dcc-a9c5-bb8590661676)
 
-- [**Shodan**]( https://www.shodan.io/)   Es un motor de búsqueda de dispositivos conectados a internet que ofrece una variedad de herramientas para monitorizar y enriquecer datos de direcciones IP a nivel global.
-- [**OSINT.Industries**]( https://osint.industries/) plataforma especializada en inteligencia de fuentes abiertas (Open Source Intelligence - OSINT) que ofrece herramientas avanzadas para la recopilación, análisis y visualización de información obtenida de fuentes públicas.
-- [**Sherlockeye**](https://sherlockeye.io/) ofrece investigaciones de OSINT en más de 9000 sitios web, con la capacidad de buscar información dentro de más de 16 mil millones de registros de filtraciones. Además, proporciona análisis mejorados por inteligencia artificial para descubrir si el objetivo ha sido comprometido en brechas de seguridad conocidas
+- [**Shodan**]( https://www.shodan.io/)   
+- [**OSINT.Industries**]( https://osint.industries/) 
+- [**Sherlockeye**](https://sherlockeye.io/) 
 - [**Censys**]( https://search.censys.io/ )
 - [**Pipl**]( https://pipl.com/) 
     
@@ -60,7 +60,7 @@ La distribución cuenta con una gran cantida de herramientas, las cuales estan d
   Habilitadas en su carpeta  dentro del navegador Chromium.
   ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/3278e69c-83e3-425c-8fb9-889da142c9b0)
 
-- [**NodeXL**]( https://nodexl.com/)
+- [**NodeXL**]( https://nodexl.com/) 
 - [**IntelTechniques**]( https://inteltechniques.com/)
 - [**Usersearch**]( https://usersearch.org/ )
 - [**Instant Username Search**]( https://instantusername.com/#/)
@@ -74,6 +74,17 @@ La distribución cuenta con una gran cantida de herramientas, las cuales estan d
 - [**Binwalk**]([url](https://github.com/ReFirmLabs/binwalk)) : Herramienta es especialmente útil para investigadores de seguridad y profesionales de la informática forense que necesitan analizar archivos binarios para buscar vulnerabilidades, extraer datos incrustados o realizar ingeniería inversa en dispositivos integrados.
 - [**Foremost**]([url](https://github.com/gerryamurphy/Foremost)) : Herramienta de recuperación de datos y análisis forense digital utilizada principalmente en sistemas operativos basados en Unix, como Linux. Su función principal es extraer archivos eliminados o perdidos de sistemas de archivos, particiones y dispositivos de almacenamiento. Foremost es muy útil en investigaciones forenses digitales para recuperar evidencia de archivos, como imágenes, documentos, archivos de audio y video, entre otros, incluso si han sido eliminados o están fragmentados en el disco.
 
+#### Herramientas Web
+  Habilitadas en su carpeta  dentro del navegador Chromium.
+  ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/9c56805f-e142-498f-9b77-151e755765a5)
+
+- [**Forensically**]( https://29a.ch/photo-forensics/#forensic-magnifier) 
+- [**TinEye**](https://tineye.com/ )
+- [**Fotoforensics**](https://fotoforensics.com/ )
+- [**Jimpl**](https://jimpl.com/ )
+- [**Metadato**](https://www.metadato.org/ )
+- [**Exifdata**]( https://exifdata.com/)
+  
 ### Análisis de Vulnerabilidades y Exploits
 ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/23d69071-5b46-46f9-bbeb-5fd405e91dd1)
 
@@ -85,6 +96,12 @@ La distribución cuenta con una gran cantida de herramientas, las cuales estan d
 - [**Wapiti**]([url](https://github.com/wapiti-scanner/wapiti)) : Realiza pruebas de seguridad en aplicaciones web. Está diseñada para identificar y explotar vulnerabilidades comunes de seguridad en aplicaciones web, como inyecciones SQL, cross-site scripting (XSS), cross-site request forgery (CSRF)
 - [**Nikto**]([url](https://github.com/sullo/nikto)) : Escaneo de seguridad de código abierto altamente reconocida en la comunidad de ciberseguridad. Su propósito principal es realizar un análisis exhaustivo de servidores web en busca de posibles vulnerabilidades y configuraciones erróneas que podrían ser explotadas por atacantes. Desarrollado por Chris Sullo, Nikto se ha convertido en una herramienta esencial para profesionales de seguridad, auditores de sistemas y administradores de servidores.
 
+#### Herramientas Web
+  Habilitadas en su carpeta  dentro del navegador Chromium.
+![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/9a4225b7-d2f5-499e-a2de-fea2a55980e8)
+
+- [**Web-check**](https://web-check.xyz/)
+  
  ### Monitoreo de Amenazas e Inteligencia
  ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/00653f1f-0ad9-4406-a61a-32446e213654)
 
