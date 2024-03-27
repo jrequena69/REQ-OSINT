@@ -1,5 +1,6 @@
 # REQ-OSINT y Ciberinvestigación
-Distribución Kali Linux para ivestigación OSINT
+------------------------------------
+### Distribución Kali Linux para ivestigación OSINT
 
 ### OSINT: El Arte de la Inteligencia Abierta con Herramientas Especializadas
 En la inmensidad de datos digitales en el que nos encontramos inmersos, la información es la moneda de cambio más valiosa. En este contexto, el OSINT (Open Source Intelligence), o inteligencia de fuentes abiertas, emerge como una disciplina crucial en el ámbito de la seguridad, la investigación y la toma de decisiones estratégicas. 
@@ -26,7 +27,8 @@ LA distribución  cuenta con 4 navegadores distintos que son:
 #### - Tor Browser
 ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/f48939a1-04a1-45b0-a2c2-bc9e3c3520a0)
 
-
+## HERRAMIENTAS
+---------
 La distribución cuenta con una gran cantida de herramientas, las cuales estan distribuidas por categorías y son accesibles a través del menu XFCE.
 
 ### Recopilación de información 
