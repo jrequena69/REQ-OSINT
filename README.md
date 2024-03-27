@@ -112,4 +112,13 @@ Se emplea para recopilar información sobre posibles amenazas en línea, como ac
 - [**Suricata**]([url](https://github.com/OISF/suricata)): Es un motor de detección de intrusiones (IDS) y prevención de intrusiones (IPS) de código abierto, diseñado para monitorear y proteger redes contra actividades maliciosas. Utiliza un enfoque basado en reglas para analizar el tráfico de red en tiempo real y detectar posibles amenazas como intrusiones, exploits, malware y ataques de denegación de servicio.
 - [**Netdiscover**]([url](https://github.com/netdiscover-scanner/netdiscover)): Utilizada para escanear y descubrir dispositivos en una red local. Esta herramienta realiza un barrido de red pasivo, enviando y recibiendo paquetes ARP para identificar dispositivos que están conectados a la misma red.
 
+  #### Herramientas Web
+  Habilitadas en su carpeta  dentro del navegador Chromium.
+![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/05dbb6a0-776c-4392-aa93-1dc1411c846f)
+
+- [**OTX AlienVault**](https://otx.alienvault.com/)
+- [**VirusTotal**](https://www.virustotal.com/)
+- [**Recorded Future**](https://go.recordedfuture.com/get-started#demo-form/)
+
+
   
