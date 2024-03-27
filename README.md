@@ -41,3 +41,14 @@ La distribución cuenta con una gran cantida de herramientas, las cuales estan d
 ### Análisis de Redes Sociales
   ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/16da7ffa-9092-4d80-8842-389cffa8c351)
 
+- [**Sherlock**]([url](https://github.com/sherlock-project/sherlock)) : Localiza perfiles de redes sociales asociados a un nombre de usuario en múltiples plataformas en línea. Desarrollada en Python, Sherlock automatiza la tarea de búsqueda de perfiles en redes sociales, permitiendo a los usuarios encontrar perfiles potenciales en sitios populares como Facebook, Instagram, Twitter, LinkedIn, Reddit, y muchos más
+- [**OSINT Framework**]([url](https://osintframework.com/)) :  Plataforma que centraliza y organiza herramientas y recursos de fuentes abiertas en línea para facilitar la investigación y recopilación de información.
+- [**User recon**]([url](https://github.com/vijaysahuofficial/UserReCon)) : Busca perfiles en redes sociales utilizando un nombre de usuario específico. Permite a los usuarios buscar perfiles en una amplia gama de plataformas de redes sociales y servicios en línea, incluyendo Facebook, Instagram, Twitter, LinkedIn
+- [**Social Analizer**]([url](https://github.com/qeeqbox/social-analyzer)) :Analizar perfiles de redes sociales en busca de posibles riesgos de seguridad o privacidad. Esta herramienta está diseñada para ayudar a los usuarios a evaluar la exposición de su información personal en línea y a tomar medidas para proteger su privacidad y seguridad.
+
+### Análisis de Metadatos y Archivos
+
+- [**Exiftool**]([url](https://github.com/exiftool/exiftool)) :
+- [**Metagoofil**]([url](https://github.com/opsdisk/metagoofil)) : 
+- [**Binwalk**]([url]()) : 
+- [**Foremost**]([url]()) : 
