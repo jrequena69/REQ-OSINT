@@ -58,7 +58,13 @@ La distribución cuenta con una gran cantida de herramientas, las cuales estan d
 
   #### Herramientas Web
   Habilitadas en su carpeta  dentro del navegador Chromium.
-  
+  ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/3278e69c-83e3-425c-8fb9-889da142c9b0)
+
+- [**NodeXL**]( https://nodexl.com/)
+- [**IntelTechniques**]( https://inteltechniques.com/)
+- [**Usersearch**]( https://usersearch.org/ )
+- [**Instant Username Search**]( https://instantusername.com/#/)
+- [**Namechk**]( https://namechk.com/)
 
 ### Análisis de Metadatos y Archivos
 ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/8848da7d-c534-4591-ab79-7b3cbbccd430)
