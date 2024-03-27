@@ -27,7 +27,7 @@ LA distribución  cuenta con 4 navegadores distintos que son:
 ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/f48939a1-04a1-45b0-a2c2-bc9e3c3520a0)
 
 
-La distribución cuenta con una gran cantida de herramientas, las cuales estan distribuidas por categorías y son accesibles a través del menu de XFCE.
+La distribución cuenta con una gran cantida de herramientas, las cuales estan distribuidas por categorías y son accesibles a través del menu XFCE.
 
 ### Recopilación de información 
 ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/1dadff66-ebf3-40b2-b1df-de5389013c5c)
@@ -47,8 +47,9 @@ La distribución cuenta con una gran cantida de herramientas, las cuales estan d
 - [**Social Analizer**]([url](https://github.com/qeeqbox/social-analyzer)) :Analizar perfiles de redes sociales en busca de posibles riesgos de seguridad o privacidad. Esta herramienta está diseñada para ayudar a los usuarios a evaluar la exposición de su información personal en línea y a tomar medidas para proteger su privacidad y seguridad.
 
 ### Análisis de Metadatos y Archivos
+![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/8848da7d-c534-4591-ab79-7b3cbbccd430)
 
-- [**Exiftool**]([url](https://github.com/exiftool/exiftool)) :
-- [**Metagoofil**]([url](https://github.com/opsdisk/metagoofil)) : 
-- [**Binwalk**]([url]()) : 
-- [**Foremost**]([url]()) : 
+- [**Exiftool**]([url](https://github.com/exiftool/exiftool)) : Herramienta de línea de comandos que se utiliza para leer, escribir y editar metadatos incrustados en archivos digitales, como imágenes, audio, video y documentos. Los metadatos son información adicional sobre el archivo que puede incluir detalles como la fecha y la hora de creación, la ubicación geográfica, la cámara utilizada para tomar una fotografía, la configuración de la cámara, la información del autor 
+- [**Metagoofil**]([url](https://github.com/opsdisk/metagoofil)) : Extrae metadatos de archivos públicos almacenados en sistemas de archivos compartidos, como servidores FTP o servidores web. Esta herramienta utiliza técnicas de búsqueda en Internet para recopilar documentos de los servidores y extraer información importante de los metadatos incrustados en esos documentos.
+- [**Binwalk**]([url](https://github.com/ReFirmLabs/binwalk)) : Herramienta es especialmente útil para investigadores de seguridad y profesionales de la informática forense que necesitan analizar archivos binarios para buscar vulnerabilidades, extraer datos incrustados o realizar ingeniería inversa en dispositivos integrados.
+- [**Foremost**]([url](https://github.com/gerryamurphy/Foremost)) : Herramienta de recuperación de datos y análisis forense digital utilizada principalmente en sistemas operativos basados en Unix, como Linux. Su función principal es extraer archivos eliminados o perdidos de sistemas de archivos, particiones y dispositivos de almacenamiento. Foremost es muy útil en investigaciones forenses digitales para recuperar evidencia de archivos, como imágenes, documentos, archivos de audio y video, entre otros, incluso si han sido eliminados o están fragmentados en el disco.
