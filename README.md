@@ -14,3 +14,11 @@ Es fundamental abordar la carencia de soluciones integrales en este ámbito, fac
 
 
 ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/aaab72a1-b33f-45e5-9f1f-d1e2aec795dc)
+
+## NAVEGADORES
+---------
+LA distribución  cuenta con 4 navegadores distintos que son: 
+#### - Chromium
+#### - Google Chrome
+#### - Firefox
+#### - Tor Browser
