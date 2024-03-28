@@ -29,7 +29,11 @@ LA distribución  cuenta con 4 navegadores distintos que son:
 
 ## HERRAMIENTAS
 ---------
-La distribución cuenta con una gran cantida de herramientas, las cuales estan distribuidas por categorías y son accesibles a través del menu XFCE.
+La distribución cuenta con una gran cantida de herramientas, las cuales estan distribuidas por categorías y son accesibles a través del menu XFCEy el navegador Chromium.
+
+![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/9ad4dfaf-8637-4ceb-b579-e17913e8aff2)
+
+
 
 ### Recopilación de información 
 ![image](https://github.com/jrequena69/REQ-OSINT/assets/54437813/1dadff66-ebf3-40b2-b1df-de5389013c5c)
